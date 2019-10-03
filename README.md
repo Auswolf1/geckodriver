@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAuswolf1%2Fgeckodriver.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAuswolf1%2Fgeckodriver?ref=badge_shield)
+
 geckodriver
 ===========
 
@@ -77,3 +79,7 @@ geckodriver in #interop on irc.mozilla.org.
 
 [subscribe]: https://lists.mozilla.org/listinfo/tools-marionette
 [archive]: https://lists.mozilla.org/pipermail/tools-marionette/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAuswolf1%2Fgeckodriver.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAuswolf1%2Fgeckodriver?ref=badge_large)
